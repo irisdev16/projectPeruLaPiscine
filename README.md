@@ -1,1 +1,1 @@
-# projetPeruLaPiscine
+# projectPeruLaPiscine
